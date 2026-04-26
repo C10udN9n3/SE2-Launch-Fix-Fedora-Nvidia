@@ -1,5 +1,5 @@
 # SE2-Launch-Fix-Fedora-Nvidia
-This script was baked up for my issues trying to get SE2 to the main meny. I have wiped my compatdata and retested my script.
+This script was baked up for my issues trying to get SE2 to the main menu. I have wiped my compatdata and retested my script.
 
 NOTE: I only have my one desktop to test from. Nvidia card, AMD CPU. I feel as if this script could be beneficial to someone, so here it is. It took a lot of troubleshooting, wipes, and reinstalls to get the game to where it is now on my PC.
 
